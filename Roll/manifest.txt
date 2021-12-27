@@ -1,0 +1,3 @@
+Main-Class: app.main.MainWindow
+Name: app/main/MainWindow.class
+Java-Bean: true
