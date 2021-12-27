@@ -1,6 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="Roll">
-    <output-path>$PROJECT_DIR$/out/artifacts/Roll</output-path>
-    <root id="archive" name="Roll.jar" />
-  </artifact>
-</component>
