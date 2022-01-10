@@ -11,6 +11,9 @@ public class aritmetico {
         System.out.println("O valor de ++K é " +j);
         System.out.println("O valor de K++ é " +l);
         System.out.println("O valor de K após ter incrementado é " +x);
+        System.out.println("O valor de K após ter incrementado é " +x);
+        System.out.println("O valor de K após ter incrementado é " +x);
+        System.out.println("O valor de K após ter incrementado é " +x);
 
 
     }
